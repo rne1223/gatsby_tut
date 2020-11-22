@@ -5,7 +5,7 @@ export default class product extends Component {
     render() {
         return (
             <Layout>
-                <h1> this is our products page</h1>
+                <h1> Product Page</h1>
             </Layout>
         )
     }
